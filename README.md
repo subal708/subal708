@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=subal708&layout=compact&theme=tokyonight" alt="subal708" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=subal708&show_icons=true&theme=tokyonight" alt="subal708" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=subal708&show_icons=true&theme=tokyonight" alt="subal708" /></p>
 
 
 ---
